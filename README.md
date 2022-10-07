@@ -1,1 +1,1 @@
-# JavaProjects
+# Grades in Java
